@@ -1,6 +1,6 @@
 # Postgram
 ## Send post on telegram, certain time 
-
+[![Run on Repl.it](https://repl.it/badge/github/nimaebrazi/Postgram)](https://repl.it/github/nimaebrazi/Postgram)
 ### Libraries:
 
 1. [Telegram bot api](https://github.com/akalongman/php-telegram-bot) 
